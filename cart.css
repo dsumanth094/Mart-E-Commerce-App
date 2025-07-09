@@ -1,0 +1,136 @@
+header {
+    display: grid;
+    grid-template-columns: 65% 35%;
+    background-color: white; 
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 5%;
+    margin-top: 25px;
+    font-size: 20px;
+}
+nav i{
+    padding: 1%;
+    margin-top: 25px;
+}
+h2 {
+    margin-left: 80px; 
+}
+.cart-container{
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    height: 620px;
+}
+.carts{
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    height: 150px;
+    width: 900px;
+    margin: 40px;
+    margin-left: 80px;
+}
+.c{
+    height: 150px;
+}
+.c1{
+    height: 150px;
+    margin-left: 50px;
+}
+h3{
+    margin-left: 300px;
+    margin-top: -120px;
+}
+
+h5{
+    font-size: 15px;
+    padding-left: 300px;
+    margin-top: 50px;
+    color: gray;
+}
+p {
+    font-size: 15px;
+    padding-left: 380px;
+    margin-top: -43px;
+    color: darkblue;
+}
+.b a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    margin-left: 400px;
+    font-size: 25px;  
+}
+.b { 
+   padding-top: 5px;  
+}
+.b1 a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    margin-left: 450px;
+    font-size: 35px;  
+}
+.b1{
+     margin-top: -52px;
+}
+h6 {
+    margin-left: 850px;
+    margin-top: -130px;
+}
+h6 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.cart{
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    height: 150px;
+    width: 350px;
+    margin-left: 1050px;
+    margin-top: -580px;  
+}
+.cart p{
+    margin-top: 10px;
+    padding-inline-start: 20px;
+    font-size: 20px;
+}
+.d{
+    color: darkblue;
+}
+.s{
+    color: black;
+}
+.footer-container{
+   /* border: 2px solid blue; */
+   background-color: darkblue;
+   height: 400px;
+   width: auto;
+   display: flex;
+   align-items: center;
+   margin: 50px 0px 0px 0px;
+   
+}
+.footer-container .footer1{
+  /* border: 2px solid red; */
+  height: 300px;
+  width: 300px;
+  margin: 40px;
+}
+.footer1 .j {
+    margin-left: 35px;
+    color: white;
+}
+.footer1 li{
+    color: gray;
+    list-style-type:none ;
+    margin-left: 35px;
+    font-size: 18px; 
+}
+.footer1 li a{
+    color: gray;
+    text-decoration: none;
+}
