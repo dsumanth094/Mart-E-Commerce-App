@@ -1,6 +1,7 @@
 body{
     overflow-x: hidden;
 }
+/* Header */
 header {
     display: grid;
     grid-template-columns: 45% 55%;
@@ -22,11 +23,13 @@ nav i{
     padding-left: 40px ;
     margin-top: 20px;
 }
+/* Header End */
 .container-app{
     max-width: 1250px;
     margin: 0 auto;
     
 }
+/* About */
 .carousel-item h1,p,h3 {
     margin-left:40px ;
     margin-top: 200px;
@@ -45,6 +48,7 @@ nav i{
     background-color: whitesmoke;
     border-style: hidden;
 }
+/* boxes */
 .box-container{
     border: 1px solid white;
     height: 400px;
@@ -54,8 +58,8 @@ nav i{
     align-items: center;
     
 }
-/* boxes */
 .box1{
+
     width: 350px;
     height: 170px;
     background-color: lightpink;
