@@ -167,7 +167,6 @@ nav i{
     gap: 10px;
     flex-wrap: wrap;
     margin-bottom: 10px;
-    
 }
 .items{
     border: 3px solid whitesmoke;
@@ -175,7 +174,6 @@ nav i{
     width: 300px;
     border-radius: 10px;
     background-color: white;
-
 }
 .items h5 {
     background-color: darkblue;
@@ -202,32 +200,51 @@ nav i{
 .items h4{
     font-size: 20px;
     margin-left: 20px ;
+    margin-top: 15px;
 }
 .items .s{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+    margin-top: 20px;
+
 }
 .items .s1{
     height: 20px;
     width: 20px;
     margin-left: 5px;
+    margin-top: 20px;
 }
-.items h2{
-    margin: 20px; 
+.but2{
+    display: flex;
 }
-.items span{
-    margin-left: 150px;
-    font-size: 40px;
+.but2 p{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.but2 button{
+    color: rgb(12, 12, 65);
+    text-align: center;
+    align-items: center;
+    margin-left: 165px;
+    margin-top: 25px;
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border:1px solid rgb(234, 224, 224) ;
     border-radius: 50%;
 }
-span a{
-    text-decoration: none;
-    color: rgb(32, 32, 32);
-    text-align: center;
+.but2 span{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -26px;
+    margin-left: -10px;
 }
-span a:hover{
-    background-color: white;
+button:hover {
+    background-color: #0d0d6e;
+    color: white;
 }
 .mobiles-container{
     display: flex;
@@ -285,23 +302,44 @@ span a:hover{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+    margin-top: 10px;
 }
 .mobiles .u1{
     height: 20px;
     width: 20px;
     margin-left: 5px;
+    margin-top: 10px;
 }
-.mobiles h4{
-    margin: 25px 0px 0px 20px; 
+.but2{
+    display: flex;
 }
-.mobiles span{
-    margin: 160px;
-    border: 1px solid white;
-    border-radius: 50%;
-    font-size: 40px;
+.but2 p{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 20px;
 }
-span a:hover{
+.but2 button{
+    color: rgb(12, 12, 65);
+    text-align: center;
+    align-items: center;
+    margin-left: 165px;
+    margin-top: 20px;
+    width: 35px;
+    height: 35px;
     background-color: white;
+    border:1px solid rgb(234, 224, 224) ;
+    border-radius: 50%;
+}
+.but2 span{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -26px;
+    margin-left: -10px;
+}
+button:hover {
+    background-color: #0d0d6e;
+    color: white;
 }
 .mobiles1 h5{
     margin-left: 20px;
@@ -310,23 +348,13 @@ span a:hover{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+    margin-top: 10px;
 }
 .mobiles1 .u1{
     height: 20px;
     width: 20px;
     margin-left: 5px;
-}
-.mobiles1 h4{
-    margin: 25px 0px 0px 20px; 
-}
-.mobiles1 span{
-    margin: 160px;
-    border: 1px solid white;
-    border-radius: 50%;
-    font-size: 40px;
-}
-span a:hover{
-    background-color: white;
+    margin-top: 10px;
 }
 .bestsales-container{
     display: flex;
@@ -377,7 +405,7 @@ span a:hover{
     width: 20px;
     margin-left: 5px;
 }
-.bestsales2 h4{
+/* .bestsales2 h4{
     margin: 25px 0px 0px 20px; 
 }
 .bestsales2 span{
@@ -388,7 +416,7 @@ span a:hover{
 }
 span a:hover{
     background-color: white;
-}
+} */
 .footer-container{
    /* border: 2px solid blue; */
    background-color: darkblue;
