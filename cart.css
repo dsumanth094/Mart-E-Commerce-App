@@ -1,3 +1,4 @@
+/* Header Details */
 header {
     display: grid;
     grid-template-columns: 65% 35%;
@@ -17,6 +18,8 @@ nav i{
 h2 {
     margin-left: 80px; 
 }
+/* Header Details End */
+/* Cart Details  */
 .cart-container{
     border: 2px solid whitesmoke;
     background-color: whitesmoke;
@@ -104,6 +107,8 @@ h6 a{
 .s{
     color: black;
 }
+/* Card Details End */
+/* Footer Start */
 .footer-container{
    /* border: 2px solid blue; */
    background-color: darkblue;
@@ -134,3 +139,4 @@ h6 a{
     color: gray;
     text-decoration: none;
 }
+/* Footer End */
