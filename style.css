@@ -48,6 +48,9 @@ nav i{
     background-color: whitesmoke;
     border-style: hidden;
 }
+.carousel-item h3:hover button{
+    color: black;
+}
 /* boxes */
 .box-container{
     border: 1px solid white;
