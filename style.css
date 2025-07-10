@@ -51,6 +51,7 @@ nav i{
 .carousel-item h3:hover button{
     color: black;
 }
+/* About End */
 /* boxes */
 .box-container{
     border: 1px solid white;
@@ -158,6 +159,8 @@ nav i{
 .box4 p{
     margin-left: 50px;
 }
+/* boxes End */
+/* About Big Discount */
 .products-container h1{
     text-align: center;
     margin-top: 50px;
@@ -249,6 +252,8 @@ button:hover {
     background-color: #0d0d6e;
     color: white;
 }
+/* About Big Discount End */
+/* About New Arrivals & Best Sales  */
 .mobiles-container{
     display: flex;
     margin: 300px;
@@ -408,18 +413,8 @@ button:hover {
     width: 20px;
     margin-left: 5px;
 }
-/* .bestsales2 h4{
-    margin: 25px 0px 0px 20px; 
-}
-.bestsales2 span{
-    margin: 160px;
-    border: 1px solid white;
-    border-radius: 50%;
-    font-size: 40px;
-}
-span a:hover{
-    background-color: white;
-} */
+/* About New Arrivals & Best Sales End  */
+/* Footer Start */
 .footer-container{
    /* border: 2px solid blue; */
    background-color: darkblue;
@@ -448,23 +443,5 @@ span a:hover{
     color: grey;
     text-decoration: none;
 }
-/* @media (min-width: 320px) and (max-width:425px){
-    header{
-        display: grid;
-        grid-template-columns: 35% 65%;
-    }
-    header .a{
-        width: 100px;
-        height: 50px;
-    }
-    header a{
-        font-size: 10px;
-        padding-left: 0px;
-        margin-top: -10px;
-    }
-    header i{
-        font-size: 10px;
-        padding-left: 0px;
-    }
-} */
+/* Footer End */
 
