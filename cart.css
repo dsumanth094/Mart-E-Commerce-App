@@ -21,7 +21,7 @@ h2 {
 /* Header Details End */
 /* Cart Details  */
 .cart-container{
-    border: 2px solid whitesmoke;
+    border: 1px solid whitesmoke;
     background-color: whitesmoke;
     height: 620px;
 }
