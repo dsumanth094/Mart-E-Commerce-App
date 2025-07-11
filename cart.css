@@ -1,7 +1,7 @@
 /* Header Details */
 header {
     display: grid;
-    grid-template-columns: 65% 35%;
+    grid-template-columns: 64% 36%;
     background-color: white; 
 }
 nav a{
