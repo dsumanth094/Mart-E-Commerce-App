@@ -1,19 +1,24 @@
 /* Header Start */
 header {
     display: grid;
-    grid-template-columns: 44% 56%;
+    grid-template-columns: 65% 35%;
     background-color: white; 
+    box-shadow: 10px 5px 12px rgb(106, 101, 101);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    top: 0;
 }
 nav a{
     text-decoration: none;
     color: black;
-    padding: 50px;
-    margin-top:23px;
+    padding: 20px;
+    margin-top:27px;
     font-size: 20px;
 }
 nav i{
     padding-left: 21px;
-    margin-top: 23px;
+    margin-top: 27px;
 }
 .a {
     padding-left: 50px ;
@@ -34,7 +39,7 @@ nav i{
   background-image:url(../images/table.jpg);
   background-repeat: no-repeat;
   border: 1px solid white;
-  padding-top: 70px;
+  padding-top: 170px;
   margin-bottom: 20px ;
   justify-content: center;
   margin-top: -5px;
@@ -52,7 +57,7 @@ nav i{
   color: #fff;
   font-size: 48px;               
   z-index: 2;                    
-  margin-top: -15px;                 
+  margin-top: -25px;                 
 }
 /* Product image details End */
 /* Drop Down Details */

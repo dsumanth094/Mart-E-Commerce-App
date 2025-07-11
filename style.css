@@ -4,14 +4,18 @@ body{
 /* Header */
 header {
     display: grid;
-    grid-template-columns: 46% 54%;
+    grid-template-columns: 65% 35%;
     background-color: white;  
-    box-shadow: 5px 5px 4px rgb(202, 199, 199);
+    box-shadow: 10px 5px 12px rgb(106, 101, 101);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+
 }
 nav a{
     text-decoration: none;
     color: black;
-    padding: 50px;
+    padding: 20px;
     margin-top: 35px;
     font-size: 20px;
 }
@@ -32,7 +36,7 @@ nav i{
 /* About */
 .carousel-item h1,p,h3 {
     margin-left:40px ;
-    margin-top: 200px;
+    margin-top: 250px;
 }
 .carousel-item .d{
     margin-top: -340px;

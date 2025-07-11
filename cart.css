@@ -3,6 +3,11 @@ header {
     display: grid;
     grid-template-columns: 64% 36%;
     background-color: white; 
+    box-shadow: 10px 5px 12px rgb(106, 101, 101);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    top: 0;
 }
 nav a{
     text-decoration: none;
@@ -25,6 +30,7 @@ nav i{
     border: 1px solid whitesmoke;
     background-color: whitesmoke;
     height: 620px;
+    margin-top: 90px;
 }
 .carts{
     border: 2px solid white;
