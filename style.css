@@ -4,7 +4,7 @@ body{
 /* Header */
 header {
     display: grid;
-    grid-template-columns: 45% 55%;
+    grid-template-columns: 46% 54%;
     background-color: white;  
     box-shadow: 5px 5px 4px rgb(202, 199, 199);
 }
