@@ -15,8 +15,9 @@ nav i{
     padding: 1%;
     margin-top: 25px;
 }
-h2 {
-    margin-left: 80px; 
+.a {
+    padding-left: 40px ;
+    margin-top: 5px;
 }
 /* Header Details End */
 /* Cart Details  */
